@@ -48,10 +48,10 @@ mod ad {
           target_arch = "sparc64",
           target_arch = "x86",
           target_arch = "x86_64",
-          target_arch = "nvptx",cd 
+          target_arch = "nvptx",
           target_arch = "nvptx64",
           target_arch = "xtensa",
-          target_arch = "longarch64"))]
+          target_arch = "longarch64",))]
 mod ad {
     pub type c_char = ::c_schar;
 
